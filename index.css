@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #dedede;
+  background: linear-gradient(#AB88FF,#21C08B);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -73,7 +73,7 @@ body {
   display: absolute;
   top: 50px;
   right: 50px;
-  color: #d0b217;
+  color: white;
   font-size: 2.5em;
 }
 #nivel-numero {
